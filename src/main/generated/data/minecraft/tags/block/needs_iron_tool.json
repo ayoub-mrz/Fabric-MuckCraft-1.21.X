@@ -1,0 +1,15 @@
+{
+  "values": [
+    "muckcraftmod:mithril_block",
+    "muckcraftmod:raw_mithril_block",
+    "muckcraftmod:mithril_ore",
+    "muckcraftmod:mithril_deepslate_ore",
+    "muckcraftmod:adamantite_block",
+    "muckcraftmod:raw_adamantite_block",
+    "muckcraftmod:adamantite_ore",
+    "muckcraftmod:adamantite_deepslate_ore",
+    "muckcraftmod:obamium_block",
+    "muckcraftmod:raw_obamium_block",
+    "muckcraftmod:obamium_ore"
+  ]
+}

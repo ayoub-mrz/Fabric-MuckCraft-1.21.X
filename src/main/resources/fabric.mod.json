@@ -1,0 +1,41 @@
+{
+	"schemaVersion": 1,
+	"id": "muckcraftmod",
+	"version": "${version}",
+	"name": "MuckCraft Mod",
+	"description": "This is an example description! Tell everyone what your mod is about!",
+	"authors": [
+		"AyoubMrz!"
+	],
+	"contact": {
+		"homepage": "https://modrinth.com/user/Proskey",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "CC0-1.0",
+	"icon": "assets/muckcraftmod/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"net.ayoubmrz.muckcraftmod.MuckCraftMod"
+		],
+		"fabric-datagen": [
+			"net.ayoubmrz.muckcraftmod.MuckCraftModDataGenerator"
+		],
+		"client": [
+			"net.ayoubmrz.muckcraftmod.MuckCraftModClient"
+		]
+	},
+	"mixins": [
+		"muckcraftmod.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.17.2",
+		"minecraft": "~1.21",
+		"geckolib": ">=4.5.8",
+		"java": ">=21",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}

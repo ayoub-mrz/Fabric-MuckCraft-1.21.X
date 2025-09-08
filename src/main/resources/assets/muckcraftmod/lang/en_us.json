@@ -1,0 +1,101 @@
+{
+  "item.muckcraftmod.mithril_ingot": "Mithril Ingot",
+  "item.muckcraftmod.raw_mithril": "Raw Mithril",
+
+  "item.muckcraftmod.mithril_sword": "Mithril Sword",
+  "item.muckcraftmod.mithril_pickaxe": "Mithril Pickaxe",
+  "item.muckcraftmod.mithril_shovel": "Mithril Shovel",
+  "item.muckcraftmod.mithril_axe": "Mithril Axe",
+  "item.muckcraftmod.mithril_hoe": "Mithril Hoe",
+
+  "item.muckcraftmod.mithril_helmet": "Mithril Helmet",
+  "item.muckcraftmod.mithril_chestplate": "Mithril Chestplate",
+  "item.muckcraftmod.mithril_leggings": "Mithril Leggings",
+  "item.muckcraftmod.mithril_boots": "Mithril Boots",
+
+  "item.muckcraftmod.mithril_horse_armor": "Mithril Horse Armor",
+
+  "block.muckcraftmod.mithril_block": "Mithril Block",
+  "block.muckcraftmod.raw_mithril_block": "Raw Mithril BLock",
+  "block.muckcraftmod.mithril_ore": "Mithril Ore",
+  "block.muckcraftmod.mithril_deepslate_ore": "Mithril Deepslate Ore",
+
+  "itemgroup.muckcraftmod.aamithril_equipments": "Mithril Equipments",
+
+  "advancements.muckcraftmod.smelt_mithril.title": "A New Legend Begins",
+  "advancements.muckcraftmod.smelt_mithril.description": "You've surpassed the limits of Netherite. A new era of power begins.",
+
+  "advancements.muckcraftmod.mithril_tools.title": "Age of Power",
+  "advancements.muckcraftmod.mithril_tools.description": "Netherite was just the beginning. Now, true strength is yours.",
+
+  "advancements.muckcraftmod.mithril_armor.title": "The Mithril Guardian",
+  "advancements.muckcraftmod.mithril_armor.description": "Dressed in the metal of legends, you shine brighter than the moon.",
+
+  
+
+  "item.muckcraftmod.adamantite_ingot": "Adamantite Ingot",
+  "item.muckcraftmod.raw_adamantite": "Raw Adamantite",
+
+  "item.muckcraftmod.adamantite_sword": "Adamantite Sword",
+  "item.muckcraftmod.adamantite_pickaxe": "Adamantite Pickaxe",
+  "item.muckcraftmod.adamantite_shovel": "Adamantite Shovel",
+  "item.muckcraftmod.adamantite_axe": "Adamantite Axe",
+  "item.muckcraftmod.adamantite_hoe": "Adamantite Hoe",
+
+  "item.muckcraftmod.adamantite_helmet": "Adamantite Helmet",
+  "item.muckcraftmod.adamantite_chestplate": "Adamantite Chestplate",
+  "item.muckcraftmod.adamantite_leggings": "Adamantite Leggings",
+  "item.muckcraftmod.adamantite_boots": "Adamantite Boots",
+
+  "item.muckcraftmod.adamantite_horse_armor": "Adamantite Horse Armor",
+
+  "block.muckcraftmod.adamantite_block": "Adamantite Block",
+  "block.muckcraftmod.raw_adamantite_block": "Raw Adamantite BLock",
+  "block.muckcraftmod.adamantite_ore": "Adamantite Ore",
+  "block.muckcraftmod.adamantite_deepslate_ore": "Adamantite Deepslate Ore",
+
+  "itemgroup.muckcraftmod.adamantite_equipments": "Adamantite Equipments",
+
+  "advancements.muckcraftmod.smelt_adamantite.title": "Beyond Myth",
+  "advancements.muckcraftmod.smelt_adamantite.description": "They said Adamantite was just a story. You proved them wrong.",
+
+  "advancements.muckcraftmod.adamantite_tools.title": "Adamantite Apprentice",
+  "advancements.muckcraftmod.adamantite_tools.description": "A spark of true power.",
+
+  "advancements.muckcraftmod.adamantite_armor.title": "The Adamant Vanguard",
+  "advancements.muckcraftmod.adamantite_armor.description": "You are the shield that cannot be broken.",
+
+
+  
+  "item.muckcraftmod.obamium_ingot": "Obamium Ingot",
+  "item.muckcraftmod.raw_obamium": "Raw Obamium",
+
+  "item.muckcraftmod.obamium_sword": "Obamium Sword",
+  "item.muckcraftmod.obamium_pickaxe": "Obamium Pickaxe",
+  "item.muckcraftmod.obamium_shovel": "Obamium Shovel",
+  "item.muckcraftmod.obamium_axe": "Obamium Axe",
+  "item.muckcraftmod.obamium_hoe": "Obamium Hoe",
+
+  "item.muckcraftmod.obamium_helmet": "Obamium Helmet",
+  "item.muckcraftmod.obamium_chestplate": "Obamium Chestplate",
+  "item.muckcraftmod.obamium_leggings": "Obamium Leggings",
+  "item.muckcraftmod.obamium_boots": "Obamium Boots",
+
+  "item.muckcraftmod.obamium_horse_armor": "Obamium Horse Armor",
+
+  "block.muckcraftmod.obamium_block": "Obamium Block",
+  "block.muckcraftmod.raw_obamium_block": "Raw Obamium BLock",
+  "block.muckcraftmod.obamium_ore": "Obamium Ore",
+  "block.muckcraftmod.obamium_deepslate_ore": "Obamium Deepslate Ore",
+
+  "itemgroup.muckcraftmod.obamium_equipments": "Obamium Equipments",
+
+  "advancements.muckcraftmod.smelt_obamium.title": "Yes We Can... Mine This!",
+  "advancements.muckcraftmod.smelt_obamium.description": "Change has come to your inventory.",
+
+  "advancements.muckcraftmod.obamium_tools.title": "The Obamium Doctrine",
+  "advancements.muckcraftmod.obamium_tools.description": "With great power comes great responsibility.",
+
+  "advancements.muckcraftmod.obamium_armor.title": "The Oval Office Suit",
+  "advancements.muckcraftmod.obamium_armor.description": "Now resistant to 100% of fake news and 57% of damage."
+}

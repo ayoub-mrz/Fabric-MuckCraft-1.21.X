@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "muckcraftmod:block/raw_obamium_block"
+  }
+}

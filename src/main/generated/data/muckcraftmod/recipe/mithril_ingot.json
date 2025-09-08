@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    {
+      "item": "muckcraftmod:mithril_block"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "id": "muckcraftmod:mithril_ingot"
+  }
+}

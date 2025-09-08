@@ -1,0 +1,6 @@
+// 1.21	2025-09-08T08:32:52.2868944	MuckCraft Mod/Tags for minecraft:block
+0e6663b13bc888b68ae95d86d13161c93fd22c8a data\minecraft\tags\block\mineable\pickaxe.json
+74691c3ffbb95320b678a4201d2c418496bb327d data\minecraft\tags\block\needs_diamond_tool.json
+b09d1bd9a43c7c6d106d68d1918ad84e331eec46 data\minecraft\tags\block\needs_iron_tool.json
+10bc0408126fbb5f2df52bc682166d6741f777f1 data\muckcraftmod\tags\block\mineable_with_mithril_pickaxe.json
+1fc914c27d70b5f6b75e3dc8521aaf929205894b data\muckcraftmod\tags\block\mineable_with_adamantite_pickaxe.json
