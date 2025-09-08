@@ -97,5 +97,42 @@
   "advancements.muckcraftmod.obamium_tools.description": "With great power comes great responsibility.",
 
   "advancements.muckcraftmod.obamium_armor.title": "The Oval Office Suit",
-  "advancements.muckcraftmod.obamium_armor.description": "Now resistant to 100% of fake news and 57% of damage."
+  "advancements.muckcraftmod.obamium_armor.description": "Now resistant to 100% of fake news and 57% of damage.",
+
+
+
+  "item.muckcraftmod.goblin_spawn_egg": "Goblin Spawn Egg",
+  "item.muckcraftmod.lil_dave_spawn_egg": "Lil Dave Spawn Egg",
+  "item.muckcraftmod.fire_dave_spawn_egg": "Fire Dave Spawn Egg",
+  "item.muckcraftmod.lightning_dave_spawn_egg": "Lightning Dave Spawn Egg",
+  "item.muckcraftmod.water_dave_spawn_egg": "Water Dave Spawn Egg",
+  "item.muckcraftmod.big_wolf_spawn_egg": "Big Wolf Spawn Egg",
+  "item.muckcraftmod.rock_golem_spawn_egg": "Rock Golem Spawn Egg",
+  "item.muckcraftmod.wyvern_spawn_egg": "Wyvern Spawn Egg",
+
+  "item.muckcraftmod.red_ball": "Fire Ball",
+  "item.muckcraftmod.blue_ball": "Water Ball",
+  "item.muckcraftmod.yellow_ball": "Lightning Ball",
+  "item.muckcraftmod.ancient_bone": "Ancient Bone",
+  "item.muckcraftmod.coin": "Coin",
+  "item.muckcraftmod.rock_item": "Rock",
+  "item.muckcraftmod.wyvern_claws": "Wyvern Claws",
+  "item.muckcraftmod.sword_hilt": "Sword Hilt",
+  "item.muckcraftmod.blade": "Blade",
+
+  "entity.muckcraftmod.goblin": "Goblin",
+  "entity.muckcraftmod.lil_dave": "Lil Dave",
+  "entity.muckcraftmod.fire_dave": "Fire Dave",
+  "entity.muckcraftmod.lightning_dave": "Lightning Dave",
+  "entity.muckcraftmod.water_dave": "Water Dave",
+  "entity.muckcraftmod.big_wolf": "Big Wolf",
+  "entity.muckcraftmod.rock_golem": "Rock Golem",
+  "entity.muckcraftmod.wyvern": "Wyvern",
+
+  "entity.muckcraftmod.ancient_bone": "Ancient Bone",
+  "entity.muckcraftmod.ball": "Ball",
+  "entity.muckcraftmod.rock": "Rock",
+  "entity.muckcraftmod.small_rock": "Small Rock",
+
+  "itemgroup.muckcraftmod.muck_mobs": "Muck Mobs"
 }
